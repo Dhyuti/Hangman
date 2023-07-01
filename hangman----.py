@@ -16,19 +16,6 @@ alphabet = "abcdefghijklmnopqrstuvwxyz"
 guess_word = []
 letter_storage=[]
 
-def beginning():
-    print("Hello!\n")
-
-    while True:
-        name = input("Please enter Your name\n").strip()
-
-        if name == '':
-            print("You can't do that! No blank lines")
-        else:
-            break
-
-beginning()
-
 
 
 def newFunc():
