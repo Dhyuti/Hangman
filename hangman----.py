@@ -188,7 +188,7 @@ def guessing():
                                     print ("|________")
                                     print ("\n")
                 if guess_taken == 6:
-                        print("Sorry, You lost :<! The secret word was",         '"',secretword,'"')
+                        print("Sorry, You lost :<! The word was",         '"',secretword,'"')
                 guess_taken +=1
 
 
