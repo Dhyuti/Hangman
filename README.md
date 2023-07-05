@@ -1,2 +1,2 @@
 # Hangman
-Hangman but have to guess the logo based on the picture displayed
+Guess the logo based on the picture displayed
